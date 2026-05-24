@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "steve-wiki-latest/v1",
+  "sourceId": "homelab",
+  "sourceCommit": "bootstrap",
+  "generatedAt": "2026-05-24T18:46:52.121Z",
+  "artifactBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/bootstrap/",
+  "manifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/bootstrap/wiki-manifest.json",
+  "catalogUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/bootstrap/wiki-catalog.json",
+  "pagefindBundleUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/bootstrap/pagefind/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@main/docs/"
+}
