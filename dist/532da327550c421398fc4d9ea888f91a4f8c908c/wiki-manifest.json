@@ -3,10 +3,10 @@
   "source": {
     "id": "homelab",
     "label": "Homelab",
-    "sourceCommit": "55eed42e961c97c69b58d4c151110b8f93c7f5ae"
+    "sourceCommit": "532da327550c421398fc4d9ea888f91a4f8c908c"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@55eed42e961c97c69b58d4c151110b8f93c7f5ae/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@55eed42e961c97c69b58d4c151110b8f93c7f5ae/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@532da327550c421398fc4d9ea888f91a4f8c908c/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@532da327550c421398fc4d9ea888f91a4f8c908c/assets/",
   "pages": [
     {
       "id": "homelab:index",
@@ -30,7 +30,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-24T19:15:36.427Z",
+      "updatedAt": "2026-05-24T19:35:17.955Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/index.md",
       "headings": [
         {
