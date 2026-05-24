@@ -4,6 +4,19 @@
   "note": "Pagefind-ready metadata placeholder for V1; full index generation is wired next.",
   "pages": [
     {
+      "id": "homelab:homelab-starter-content",
+      "title": "Research Homelab starter content",
+      "filters": {
+        "source": "homelab",
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate",
+        "tags": [
+          "research"
+        ]
+      }
+    },
+    {
       "id": "homelab:index",
       "title": "Homelab",
       "filters": {

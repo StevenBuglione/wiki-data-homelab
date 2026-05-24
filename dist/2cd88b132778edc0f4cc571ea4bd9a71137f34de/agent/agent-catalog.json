@@ -7,6 +7,20 @@
   },
   "pages": [
     {
+      "id": "homelab:homelab-starter-content",
+      "title": "Research Homelab starter content",
+      "slug": "homelab-starter-content",
+      "tags": [
+        "research"
+      ],
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      }
+    },
+    {
       "id": "homelab:index",
       "title": "Homelab",
       "slug": "index",

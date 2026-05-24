@@ -3,4 +3,5 @@
 > Self-hosting, networking, storage, disaster recovery
 
 ## Pages
+- [Research Homelab starter content](/wiki/?s=homelab&p=homelab-starter-content)
 - [Homelab](/wiki/?s=homelab&p=index)
