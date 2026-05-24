@@ -6,7 +6,7 @@
     "description": "Self-hosting, networking, storage, disaster recovery"
   },
   "counts": {
-    "pages": 4,
+    "pages": 3,
     "tags": 6,
     "assets": 0
   },
@@ -25,33 +25,23 @@
       "label": "Homelab",
       "slug": "index",
       "count": 1
-    },
-    {
-      "label": "UPS Monitoring Basics for a Homelab",
-      "slug": "ups-monitoring-basics",
-      "count": 1
     }
   ],
   "recentlyUpdated": [
     {
       "pageId": "homelab:homelab-starter-content",
       "title": "Research Homelab starter content",
-      "updatedAt": "2026-05-24T21:28:19.173Z"
+      "updatedAt": "2026-05-24T21:32:35.369Z"
     },
     {
       "pageId": "homelab:homelab-ups-monitoring-basics",
       "title": "Homelab UPS Monitoring Basics",
-      "updatedAt": "2026-05-24T21:28:19.174Z"
+      "updatedAt": "2026-05-24T21:32:35.370Z"
     },
     {
       "pageId": "homelab:index",
       "title": "Homelab",
-      "updatedAt": "2026-05-24T21:28:19.174Z"
-    },
-    {
-      "pageId": "homelab:ups-monitoring-basics",
-      "title": "UPS Monitoring Basics for a Homelab",
-      "updatedAt": "2026-05-24T21:28:19.174Z"
+      "updatedAt": "2026-05-24T21:32:35.370Z"
     }
   ]
 }

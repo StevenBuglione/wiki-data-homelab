@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "steve-wiki-agent-manifest/v1",
+  "sourceId": "homelab",
+  "sourceCommit": "f24d48db9ef246f44f5a0f1dcd6ef918f4b62751",
+  "generatedAt": "2026-05-24T21:32:35.377Z",
+  "catalogUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/agent/agent-catalog.json",
+  "chunksIndexUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/agent/agent-chunks.index.json",
+  "llmsSourceUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/agent/llms-source.txt",
+  "capabilities": [
+    "search",
+    "get_page",
+    "get_section",
+    "context_pack"
+  ]
+}

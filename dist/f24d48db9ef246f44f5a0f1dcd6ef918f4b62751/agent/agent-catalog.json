@@ -51,21 +51,6 @@
         "last_verified": "2026-05-24",
         "confidence": "medium"
       }
-    },
-    {
-      "id": "homelab:ups-monitoring-basics",
-      "title": "UPS Monitoring Basics for a Homelab",
-      "slug": "ups-monitoring-basics",
-      "tags": [
-        "research",
-        "homelab"
-      ],
-      "review": {
-        "review_status": "ai_draft",
-        "human_reviewed": false,
-        "last_verified": "2026-05-24",
-        "confidence": "medium"
-      }
     }
   ]
 }

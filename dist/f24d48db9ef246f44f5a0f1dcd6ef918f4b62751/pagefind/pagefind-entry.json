@@ -45,20 +45,6 @@
           "index"
         ]
       }
-    },
-    {
-      "id": "homelab:ups-monitoring-basics",
-      "title": "UPS Monitoring Basics for a Homelab",
-      "filters": {
-        "source": "homelab",
-        "area": "general",
-        "status": "draft",
-        "difficulty": "intermediate",
-        "tags": [
-          "research",
-          "homelab"
-        ]
-      }
     }
   ]
 }

@@ -4,10 +4,9 @@
   "tags": [
     {
       "tag": "homelab",
-      "count": 2,
+      "count": 1,
       "pages": [
-        "homelab:homelab-ups-monitoring-basics",
-        "homelab:ups-monitoring-basics"
+        "homelab:homelab-ups-monitoring-basics"
       ]
     },
     {
@@ -33,11 +32,10 @@
     },
     {
       "tag": "research",
-      "count": 3,
+      "count": 2,
       "pages": [
         "homelab:homelab-starter-content",
-        "homelab:homelab-ups-monitoring-basics",
-        "homelab:ups-monitoring-basics"
+        "homelab:homelab-ups-monitoring-basics"
       ]
     },
     {
