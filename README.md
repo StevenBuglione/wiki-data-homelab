@@ -1,2 +1,3 @@
-# wiki-data-homelab
+# Homelab
+
 Self-hosting, networking, storage, disaster recovery
