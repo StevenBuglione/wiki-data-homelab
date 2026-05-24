@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "steve-wiki-tags/v1",
+  "sourceId": "homelab",
+  "tags": [
+    {
+      "tag": "homelab",
+      "count": 2,
+      "pages": [
+        "homelab:homelab-ups-monitoring-basics",
+        "homelab:ups-monitoring-basics"
+      ]
+    },
+    {
+      "tag": "index",
+      "count": 1,
+      "pages": [
+        "homelab:index"
+      ]
+    },
+    {
+      "tag": "monitoring",
+      "count": 1,
+      "pages": [
+        "homelab:homelab-ups-monitoring-basics"
+      ]
+    },
+    {
+      "tag": "proxmox",
+      "count": 1,
+      "pages": [
+        "homelab:homelab-ups-monitoring-basics"
+      ]
+    },
+    {
+      "tag": "research",
+      "count": 3,
+      "pages": [
+        "homelab:homelab-starter-content",
+        "homelab:homelab-ups-monitoring-basics",
+        "homelab:ups-monitoring-basics"
+      ]
+    },
+    {
+      "tag": "ups",
+      "count": 1,
+      "pages": [
+        "homelab:homelab-ups-monitoring-basics"
+      ]
+    }
+  ]
+}

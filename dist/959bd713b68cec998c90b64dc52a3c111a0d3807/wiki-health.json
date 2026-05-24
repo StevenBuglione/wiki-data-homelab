@@ -3,13 +3,13 @@
   "sourceId": "homelab",
   "status": "ok",
   "summary": {
-    "pages": 2,
+    "pages": 4,
     "brokenInternalLinks": 0,
     "missingTitles": 0,
     "duplicateSlugs": 0,
     "orphanPages": 0,
     "largeAssets": 0,
-    "aiDrafts": 2,
+    "aiDrafts": 4,
     "stalePages": 0
   },
   "issues": []

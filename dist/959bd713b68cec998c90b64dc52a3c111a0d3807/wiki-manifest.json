@@ -1,0 +1,212 @@
+{
+  "schemaVersion": "steve-wiki-manifest/v1",
+  "source": {
+    "id": "homelab",
+    "label": "Homelab",
+    "sourceCommit": "959bd713b68cec998c90b64dc52a3c111a0d3807"
+  },
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@959bd713b68cec998c90b64dc52a3c111a0d3807/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@959bd713b68cec998c90b64dc52a3c111a0d3807/assets/",
+  "pages": [
+    {
+      "id": "homelab:homelab-starter-content",
+      "sourceId": "homelab",
+      "title": "Research Homelab starter content",
+      "description": "Research starter content for Homelab.",
+      "slug": "homelab-starter-content",
+      "file": "homelab-starter-content.md",
+      "tags": [
+        "research"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-24T21:28:19.173Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-starter-content.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "Research Homelab starter content",
+          "anchor": "research-homelab-starter-content"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Research Notes",
+          "anchor": "research-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
+    },
+    {
+      "id": "homelab:homelab-ups-monitoring-basics",
+      "sourceId": "homelab",
+      "title": "Homelab UPS Monitoring Basics",
+      "description": "A concise ai_draft page explaining why UPS monitoring matters and how to plan safe shutdown behavior for a small Proxmox or self-hosted setup.",
+      "slug": "homelab-ups-monitoring-basics",
+      "file": "homelab-ups-monitoring-basics.md",
+      "tags": [
+        "research",
+        "homelab",
+        "ups",
+        "monitoring",
+        "proxmox"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-24T21:28:19.174Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-ups-monitoring-basics.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "Homelab UPS Monitoring Basics",
+          "anchor": "homelab-ups-monitoring-basics"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Research Notes",
+          "anchor": "research-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Drafting Notes",
+          "anchor": "drafting-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
+    },
+    {
+      "id": "homelab:index",
+      "sourceId": "homelab",
+      "title": "Homelab",
+      "description": "Self-hosting, networking, storage, disaster recovery",
+      "slug": "index",
+      "file": "index.md",
+      "tags": [
+        "index"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "beginner"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-24T21:28:19.174Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/index.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "Homelab",
+          "anchor": "homelab"
+        }
+      ]
+    },
+    {
+      "id": "homelab:ups-monitoring-basics",
+      "sourceId": "homelab",
+      "title": "UPS Monitoring Basics for a Homelab",
+      "description": "Concise beginner page for UPS monitoring and safe shutdown planning in a small Proxmox or self-hosted environment.",
+      "slug": "ups-monitoring-basics",
+      "file": "ups-monitoring-basics.md",
+      "tags": [
+        "research",
+        "homelab"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-24T21:28:19.174Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/ups-monitoring-basics.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "UPS Monitoring Basics for a Homelab",
+          "anchor": "ups-monitoring-basics-for-a-homelab"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Research Notes",
+          "anchor": "research-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Drafting Notes",
+          "anchor": "drafting-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
+    }
+  ],
+  "sidebar": [
+    {
+      "type": "category",
+      "label": "Homelab",
+      "items": [
+        "homelab:homelab-starter-content",
+        "homelab:homelab-ups-monitoring-basics",
+        "homelab:index",
+        "homelab:ups-monitoring-basics"
+      ]
+    }
+  ]
+}

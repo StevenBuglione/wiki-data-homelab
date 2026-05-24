@@ -17,6 +17,23 @@
       }
     },
     {
+      "id": "homelab:homelab-ups-monitoring-basics",
+      "title": "Homelab UPS Monitoring Basics",
+      "filters": {
+        "source": "homelab",
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate",
+        "tags": [
+          "research",
+          "homelab",
+          "ups",
+          "monitoring",
+          "proxmox"
+        ]
+      }
+    },
+    {
       "id": "homelab:index",
       "title": "Homelab",
       "filters": {
@@ -26,6 +43,20 @@
         "difficulty": "beginner",
         "tags": [
           "index"
+        ]
+      }
+    },
+    {
+      "id": "homelab:ups-monitoring-basics",
+      "title": "UPS Monitoring Basics for a Homelab",
+      "filters": {
+        "source": "homelab",
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate",
+        "tags": [
+          "research",
+          "homelab"
         ]
       }
     }

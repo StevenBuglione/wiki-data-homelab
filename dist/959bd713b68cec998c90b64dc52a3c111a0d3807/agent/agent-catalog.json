@@ -21,11 +21,44 @@
       }
     },
     {
+      "id": "homelab:homelab-ups-monitoring-basics",
+      "title": "Homelab UPS Monitoring Basics",
+      "slug": "homelab-ups-monitoring-basics",
+      "tags": [
+        "research",
+        "homelab",
+        "ups",
+        "monitoring",
+        "proxmox"
+      ],
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      }
+    },
+    {
       "id": "homelab:index",
       "title": "Homelab",
       "slug": "index",
       "tags": [
         "index"
+      ],
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      }
+    },
+    {
+      "id": "homelab:ups-monitoring-basics",
+      "title": "UPS Monitoring Basics for a Homelab",
+      "slug": "ups-monitoring-basics",
+      "tags": [
+        "research",
+        "homelab"
       ],
       "review": {
         "review_status": "ai_draft",

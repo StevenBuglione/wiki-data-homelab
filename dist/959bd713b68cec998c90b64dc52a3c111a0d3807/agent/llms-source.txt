@@ -4,4 +4,6 @@
 
 ## Pages
 - [Research Homelab starter content](/wiki/?s=homelab&p=homelab-starter-content)
+- [Homelab UPS Monitoring Basics](/wiki/?s=homelab&p=homelab-ups-monitoring-basics)
 - [Homelab](/wiki/?s=homelab&p=index)
+- [UPS Monitoring Basics for a Homelab](/wiki/?s=homelab&p=ups-monitoring-basics)
