@@ -1,0 +1,9 @@
+{
+  "schemaVersion": "steve-wiki-latest-agent/v1",
+  "sourceId": "homelab",
+  "sourceCommit": "dcf2fc32e7899c7342c6379b6f11736da872496f",
+  "generatedAt": "2026-05-24T19:08:05.968Z",
+  "agentManifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/dcf2fc32e7899c7342c6379b6f11736da872496f/agent/agent-manifest.json",
+  "chunksIndexUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/dcf2fc32e7899c7342c6379b6f11736da872496f/agent/agent-chunks.index.json",
+  "llmsSourceUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/dcf2fc32e7899c7342c6379b6f11736da872496f/agent/llms-source.txt"
+}

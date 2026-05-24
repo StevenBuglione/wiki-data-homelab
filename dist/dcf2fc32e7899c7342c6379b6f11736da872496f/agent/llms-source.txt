@@ -1,0 +1,6 @@
+# Homelab
+
+> Self-hosting, networking, storage, disaster recovery
+
+## Pages
+- [Homelab](/wiki/?s=homelab&p=index)

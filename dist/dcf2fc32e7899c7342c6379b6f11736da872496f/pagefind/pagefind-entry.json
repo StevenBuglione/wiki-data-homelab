@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "steve-wiki-pagefind-ready/v1",
+  "sourceId": "homelab",
+  "note": "Pagefind-ready metadata placeholder for V1; full index generation is wired next.",
+  "pages": [
+    {
+      "id": "homelab:index",
+      "title": "Homelab",
+      "filters": {
+        "source": "homelab",
+        "area": "general",
+        "status": "draft",
+        "difficulty": "beginner",
+        "tags": [
+          "index"
+        ]
+      }
+    }
+  ]
+}

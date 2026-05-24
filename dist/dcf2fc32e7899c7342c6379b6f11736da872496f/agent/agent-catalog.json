@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "steve-wiki-agent-catalog/v1",
+  "source": {
+    "id": "homelab",
+    "label": "Homelab",
+    "description": "Self-hosting, networking, storage, disaster recovery"
+  },
+  "pages": [
+    {
+      "id": "homelab:index",
+      "title": "Homelab",
+      "slug": "index",
+      "tags": [
+        "index"
+      ],
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      }
+    }
+  ]
+}
