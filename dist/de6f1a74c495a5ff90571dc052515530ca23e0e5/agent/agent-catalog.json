@@ -71,6 +71,25 @@
         "last_verified": "2026-05-25",
         "confidence": "medium"
       }
+    },
+    {
+      "id": "homelab:proxmox-backup-restore-small-clusters",
+      "title": "Proxmox Backup and Restore Strategy for Small Clusters",
+      "slug": "proxmox-backup-restore-small-clusters",
+      "tags": [
+        "research",
+        "homelab",
+        "proxmox",
+        "backup",
+        "restore",
+        "disaster-recovery"
+      ],
+      "review": {
+        "review_status": "needs_review",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      }
     }
   ]
 }

@@ -64,6 +64,24 @@
           "storage"
         ]
       }
+    },
+    {
+      "id": "homelab:proxmox-backup-restore-small-clusters",
+      "title": "Proxmox Backup and Restore Strategy for Small Clusters",
+      "filters": {
+        "source": "homelab",
+        "area": "general",
+        "status": "active",
+        "difficulty": "intermediate",
+        "tags": [
+          "research",
+          "homelab",
+          "proxmox",
+          "backup",
+          "restore",
+          "disaster-recovery"
+        ]
+      }
     }
   ]
 }

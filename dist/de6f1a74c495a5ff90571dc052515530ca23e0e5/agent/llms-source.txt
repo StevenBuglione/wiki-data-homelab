@@ -7,3 +7,4 @@
 - [Homelab UPS Monitoring Basics](/wiki/?s=homelab&p=homelab-ups-monitoring-basics)
 - [Homelab](/wiki/?s=homelab&p=index)
 - [Kubernetes Backup and Disaster Recovery Patterns](/wiki/?s=homelab&p=kubernetes-backup-disaster-recovery-patterns)
+- [Proxmox Backup and Restore Strategy for Small Clusters](/wiki/?s=homelab&p=proxmox-backup-restore-small-clusters)

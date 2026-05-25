@@ -4,24 +4,27 @@
   "tags": [
     {
       "tag": "backup",
-      "count": 1,
+      "count": 2,
       "pages": [
-        "homelab:kubernetes-backup-disaster-recovery-patterns"
+        "homelab:kubernetes-backup-disaster-recovery-patterns",
+        "homelab:proxmox-backup-restore-small-clusters"
       ]
     },
     {
       "tag": "disaster-recovery",
-      "count": 1,
+      "count": 2,
       "pages": [
-        "homelab:kubernetes-backup-disaster-recovery-patterns"
+        "homelab:kubernetes-backup-disaster-recovery-patterns",
+        "homelab:proxmox-backup-restore-small-clusters"
       ]
     },
     {
       "tag": "homelab",
-      "count": 2,
+      "count": 3,
       "pages": [
         "homelab:homelab-ups-monitoring-basics",
-        "homelab:kubernetes-backup-disaster-recovery-patterns"
+        "homelab:kubernetes-backup-disaster-recovery-patterns",
+        "homelab:proxmox-backup-restore-small-clusters"
       ]
     },
     {
@@ -47,18 +50,27 @@
     },
     {
       "tag": "proxmox",
-      "count": 1,
+      "count": 2,
       "pages": [
-        "homelab:homelab-ups-monitoring-basics"
+        "homelab:homelab-ups-monitoring-basics",
+        "homelab:proxmox-backup-restore-small-clusters"
       ]
     },
     {
       "tag": "research",
-      "count": 3,
+      "count": 4,
       "pages": [
         "homelab:homelab-starter-content",
         "homelab:homelab-ups-monitoring-basics",
-        "homelab:kubernetes-backup-disaster-recovery-patterns"
+        "homelab:kubernetes-backup-disaster-recovery-patterns",
+        "homelab:proxmox-backup-restore-small-clusters"
+      ]
+    },
+    {
+      "tag": "restore",
+      "count": 1,
+      "pages": [
+        "homelab:proxmox-backup-restore-small-clusters"
       ]
     },
     {

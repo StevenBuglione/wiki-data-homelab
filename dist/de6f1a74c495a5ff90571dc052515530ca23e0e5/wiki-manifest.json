@@ -3,10 +3,10 @@
   "source": {
     "id": "homelab",
     "label": "Homelab",
-    "sourceCommit": "bd806f487c44ebbfbd1d99bb11c2ba2a0338b2cd"
+    "sourceCommit": "de6f1a74c495a5ff90571dc052515530ca23e0e5"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@bd806f487c44ebbfbd1d99bb11c2ba2a0338b2cd/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@bd806f487c44ebbfbd1d99bb11c2ba2a0338b2cd/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@de6f1a74c495a5ff90571dc052515530ca23e0e5/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@de6f1a74c495a5ff90571dc052515530ca23e0e5/assets/",
   "pages": [
     {
       "id": "homelab:homelab-starter-content",
@@ -30,7 +30,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T01:25:59.707Z",
+      "updatedAt": "2026-05-25T19:16:10.044Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-starter-content.md",
       "headings": [
         {
@@ -81,7 +81,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T01:25:59.707Z",
+      "updatedAt": "2026-05-25T19:16:10.045Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-ups-monitoring-basics.md",
       "headings": [
         {
@@ -133,7 +133,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T01:25:59.708Z",
+      "updatedAt": "2026-05-25T19:16:10.045Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/index.md",
       "headings": [
         {
@@ -171,7 +171,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T01:25:59.708Z",
+      "updatedAt": "2026-05-25T19:16:10.046Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/kubernetes-backup-disaster-recovery-patterns.md",
       "headings": [
         {
@@ -220,6 +220,88 @@
           "anchor": "sources"
         }
       ]
+    },
+    {
+      "id": "homelab:proxmox-backup-restore-small-clusters",
+      "sourceId": "homelab",
+      "title": "Proxmox Backup and Restore Strategy for Small Clusters",
+      "description": "A reference-quality operational guide for PBS-centered backup, restore, retention, verification, off-site copy, and failure-response strategy in small Proxmox VE clusters.",
+      "slug": "proxmox-backup-restore-small-clusters",
+      "file": "proxmox-backup-restore-small-clusters.md",
+      "tags": [
+        "research",
+        "homelab",
+        "proxmox",
+        "backup",
+        "restore",
+        "disaster-recovery"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "active",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "needs_review",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-25T19:16:10.046Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/proxmox-backup-restore-small-clusters.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "Proxmox Backup and Restore Strategy for Small Clusters",
+          "anchor": "proxmox-backup-and-restore-strategy-for-small-clusters"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Decision Matrix",
+          "anchor": "decision-matrix"
+        },
+        {
+          "depth": 2,
+          "text": "Reference Architecture",
+          "anchor": "reference-architecture"
+        },
+        {
+          "depth": 2,
+          "text": "Restore Runbook",
+          "anchor": "restore-runbook"
+        },
+        {
+          "depth": 2,
+          "text": "Failure Scenarios",
+          "anchor": "failure-scenarios"
+        },
+        {
+          "depth": 2,
+          "text": "Operational Checklist",
+          "anchor": "operational-checklist"
+        },
+        {
+          "depth": 2,
+          "text": "Common Pitfalls",
+          "anchor": "common-pitfalls"
+        },
+        {
+          "depth": 2,
+          "text": "Maintenance Notes",
+          "anchor": "maintenance-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
     }
   ],
   "sidebar": [
@@ -230,7 +312,8 @@
         "homelab:homelab-starter-content",
         "homelab:homelab-ups-monitoring-basics",
         "homelab:index",
-        "homelab:kubernetes-backup-disaster-recovery-patterns"
+        "homelab:kubernetes-backup-disaster-recovery-patterns",
+        "homelab:proxmox-backup-restore-small-clusters"
       ]
     }
   ]
