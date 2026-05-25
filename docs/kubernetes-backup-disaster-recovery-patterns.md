@@ -10,9 +10,9 @@ tags:
   - "velero"
   - "storage"
 area: general
-status: draft
+status: active
 difficulty: intermediate
-review_status: ai_draft
+review_status: needs_review
 generated_by: omg-wiki-research
 human_reviewed: false
 last_verified: 2026-05-25
