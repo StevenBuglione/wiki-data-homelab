@@ -66,7 +66,7 @@
         "storage"
       ],
       "review": {
-        "review_status": "ai_draft",
+        "review_status": "needs_review",
         "human_reviewed": false,
         "last_verified": "2026-05-25",
         "confidence": "medium"

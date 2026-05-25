@@ -36,22 +36,22 @@
     {
       "pageId": "homelab:homelab-starter-content",
       "title": "Research Homelab starter content",
-      "updatedAt": "2026-05-25T00:52:06.738Z"
+      "updatedAt": "2026-05-25T01:25:59.707Z"
     },
     {
       "pageId": "homelab:homelab-ups-monitoring-basics",
       "title": "Homelab UPS Monitoring Basics",
-      "updatedAt": "2026-05-25T00:52:06.739Z"
+      "updatedAt": "2026-05-25T01:25:59.707Z"
     },
     {
       "pageId": "homelab:index",
       "title": "Homelab",
-      "updatedAt": "2026-05-25T00:52:06.739Z"
+      "updatedAt": "2026-05-25T01:25:59.708Z"
     },
     {
       "pageId": "homelab:kubernetes-backup-disaster-recovery-patterns",
       "title": "Kubernetes Backup and Disaster Recovery Patterns",
-      "updatedAt": "2026-05-25T00:52:06.740Z"
+      "updatedAt": "2026-05-25T01:25:59.708Z"
     }
   ]
 }

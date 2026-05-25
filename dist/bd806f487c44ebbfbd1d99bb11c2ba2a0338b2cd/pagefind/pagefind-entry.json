@@ -52,7 +52,7 @@
       "filters": {
         "source": "homelab",
         "area": "general",
-        "status": "draft",
+        "status": "active",
         "difficulty": "intermediate",
         "tags": [
           "research",

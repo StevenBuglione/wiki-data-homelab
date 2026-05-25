@@ -1,7 +1,7 @@
 {
   "schemaVersion": "steve-wiki-agent-chunks-index/v1",
   "sourceId": "homelab",
-  "sourceCommit": "bf4a254ce11414adba498eb77bb013e1e140f5d5",
+  "sourceCommit": "bd806f487c44ebbfbd1d99bb11c2ba2a0338b2cd",
   "shards": [
     {
       "path": "chunks/chunks-0001.jsonl",

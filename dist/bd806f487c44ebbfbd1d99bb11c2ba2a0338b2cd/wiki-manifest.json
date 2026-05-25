@@ -3,10 +3,10 @@
   "source": {
     "id": "homelab",
     "label": "Homelab",
-    "sourceCommit": "bf4a254ce11414adba498eb77bb013e1e140f5d5"
+    "sourceCommit": "bd806f487c44ebbfbd1d99bb11c2ba2a0338b2cd"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@bf4a254ce11414adba498eb77bb013e1e140f5d5/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@bf4a254ce11414adba498eb77bb013e1e140f5d5/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@bd806f487c44ebbfbd1d99bb11c2ba2a0338b2cd/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@bd806f487c44ebbfbd1d99bb11c2ba2a0338b2cd/assets/",
   "pages": [
     {
       "id": "homelab:homelab-starter-content",
@@ -30,7 +30,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T00:52:06.738Z",
+      "updatedAt": "2026-05-25T01:25:59.707Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-starter-content.md",
       "headings": [
         {
@@ -81,7 +81,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T00:52:06.739Z",
+      "updatedAt": "2026-05-25T01:25:59.707Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-ups-monitoring-basics.md",
       "headings": [
         {
@@ -133,7 +133,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T00:52:06.739Z",
+      "updatedAt": "2026-05-25T01:25:59.708Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/index.md",
       "headings": [
         {
@@ -161,17 +161,17 @@
       ],
       "facets": {
         "area": "general",
-        "status": "draft",
+        "status": "active",
         "difficulty": "intermediate"
       },
       "review": {
-        "review_status": "ai_draft",
+        "review_status": "needs_review",
         "human_reviewed": false,
         "last_verified": "2026-05-25",
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T00:52:06.740Z",
+      "updatedAt": "2026-05-25T01:25:59.708Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/kubernetes-backup-disaster-recovery-patterns.md",
       "headings": [
         {
