@@ -45,6 +45,25 @@
           "index"
         ]
       }
+    },
+    {
+      "id": "homelab:kubernetes-backup-disaster-recovery-patterns",
+      "title": "Kubernetes Backup and Disaster Recovery Patterns",
+      "filters": {
+        "source": "homelab",
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate",
+        "tags": [
+          "research",
+          "homelab",
+          "kubernetes",
+          "backup",
+          "disaster-recovery",
+          "velero",
+          "storage"
+        ]
+      }
     }
   ]
 }

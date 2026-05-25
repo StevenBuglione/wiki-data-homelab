@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "steve-wiki-tags/v1",
+  "sourceId": "homelab",
+  "tags": [
+    {
+      "tag": "backup",
+      "count": 1,
+      "pages": [
+        "homelab:kubernetes-backup-disaster-recovery-patterns"
+      ]
+    },
+    {
+      "tag": "disaster-recovery",
+      "count": 1,
+      "pages": [
+        "homelab:kubernetes-backup-disaster-recovery-patterns"
+      ]
+    },
+    {
+      "tag": "homelab",
+      "count": 2,
+      "pages": [
+        "homelab:homelab-ups-monitoring-basics",
+        "homelab:kubernetes-backup-disaster-recovery-patterns"
+      ]
+    },
+    {
+      "tag": "index",
+      "count": 1,
+      "pages": [
+        "homelab:index"
+      ]
+    },
+    {
+      "tag": "kubernetes",
+      "count": 1,
+      "pages": [
+        "homelab:kubernetes-backup-disaster-recovery-patterns"
+      ]
+    },
+    {
+      "tag": "monitoring",
+      "count": 1,
+      "pages": [
+        "homelab:homelab-ups-monitoring-basics"
+      ]
+    },
+    {
+      "tag": "proxmox",
+      "count": 1,
+      "pages": [
+        "homelab:homelab-ups-monitoring-basics"
+      ]
+    },
+    {
+      "tag": "research",
+      "count": 3,
+      "pages": [
+        "homelab:homelab-starter-content",
+        "homelab:homelab-ups-monitoring-basics",
+        "homelab:kubernetes-backup-disaster-recovery-patterns"
+      ]
+    },
+    {
+      "tag": "storage",
+      "count": 1,
+      "pages": [
+        "homelab:kubernetes-backup-disaster-recovery-patterns"
+      ]
+    },
+    {
+      "tag": "ups",
+      "count": 1,
+      "pages": [
+        "homelab:homelab-ups-monitoring-basics"
+      ]
+    },
+    {
+      "tag": "velero",
+      "count": 1,
+      "pages": [
+        "homelab:kubernetes-backup-disaster-recovery-patterns"
+      ]
+    }
+  ]
+}

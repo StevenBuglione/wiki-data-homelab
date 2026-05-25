@@ -51,6 +51,26 @@
         "last_verified": "2026-05-24",
         "confidence": "medium"
       }
+    },
+    {
+      "id": "homelab:kubernetes-backup-disaster-recovery-patterns",
+      "title": "Kubernetes Backup and Disaster Recovery Patterns",
+      "slug": "kubernetes-backup-disaster-recovery-patterns",
+      "tags": [
+        "research",
+        "homelab",
+        "kubernetes",
+        "backup",
+        "disaster-recovery",
+        "velero",
+        "storage"
+      ],
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      }
     }
   ]
 }

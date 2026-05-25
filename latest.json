@@ -1,16 +1,16 @@
 {
   "schemaVersion": "steve-wiki-latest/v1",
   "sourceId": "homelab",
-  "sourceCommit": "f24d48db9ef246f44f5a0f1dcd6ef918f4b62751",
-  "generatedAt": "2026-05-24T21:32:35.377Z",
-  "artifactBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/",
-  "manifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/wiki-manifest.json",
-  "catalogUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/wiki-catalog.json",
-  "tagsUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/wiki-tags.json",
-  "graphUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/wiki-graph.json",
-  "healthUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/wiki-health.json",
-  "pagefindBundleUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/pagefind/",
-  "agentManifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/agent/agent-manifest.json",
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/assets/"
+  "sourceCommit": "a4c05c6e6d6ec60a52e93010d60efaf4923439b6",
+  "generatedAt": "2026-05-25T00:20:22.445Z",
+  "artifactBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/a4c05c6e6d6ec60a52e93010d60efaf4923439b6/",
+  "manifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/a4c05c6e6d6ec60a52e93010d60efaf4923439b6/wiki-manifest.json",
+  "catalogUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/a4c05c6e6d6ec60a52e93010d60efaf4923439b6/wiki-catalog.json",
+  "tagsUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/a4c05c6e6d6ec60a52e93010d60efaf4923439b6/wiki-tags.json",
+  "graphUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/a4c05c6e6d6ec60a52e93010d60efaf4923439b6/wiki-graph.json",
+  "healthUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/a4c05c6e6d6ec60a52e93010d60efaf4923439b6/wiki-health.json",
+  "pagefindBundleUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/a4c05c6e6d6ec60a52e93010d60efaf4923439b6/pagefind/",
+  "agentManifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@published/dist/a4c05c6e6d6ec60a52e93010d60efaf4923439b6/agent/agent-manifest.json",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@a4c05c6e6d6ec60a52e93010d60efaf4923439b6/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@a4c05c6e6d6ec60a52e93010d60efaf4923439b6/assets/"
 }

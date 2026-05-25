@@ -6,8 +6,8 @@
     "description": "Self-hosting, networking, storage, disaster recovery"
   },
   "counts": {
-    "pages": 3,
-    "tags": 6,
+    "pages": 4,
+    "tags": 11,
     "assets": 0
   },
   "topLevelNavigation": [
@@ -25,23 +25,33 @@
       "label": "Homelab",
       "slug": "index",
       "count": 1
+    },
+    {
+      "label": "Kubernetes Backup and Disaster Recovery Patterns",
+      "slug": "kubernetes-backup-disaster-recovery-patterns",
+      "count": 1
     }
   ],
   "recentlyUpdated": [
     {
       "pageId": "homelab:homelab-starter-content",
       "title": "Research Homelab starter content",
-      "updatedAt": "2026-05-24T21:32:35.369Z"
+      "updatedAt": "2026-05-25T00:20:22.436Z"
     },
     {
       "pageId": "homelab:homelab-ups-monitoring-basics",
       "title": "Homelab UPS Monitoring Basics",
-      "updatedAt": "2026-05-24T21:32:35.370Z"
+      "updatedAt": "2026-05-25T00:20:22.437Z"
     },
     {
       "pageId": "homelab:index",
       "title": "Homelab",
-      "updatedAt": "2026-05-24T21:32:35.370Z"
+      "updatedAt": "2026-05-25T00:20:22.438Z"
+    },
+    {
+      "pageId": "homelab:kubernetes-backup-disaster-recovery-patterns",
+      "title": "Kubernetes Backup and Disaster Recovery Patterns",
+      "updatedAt": "2026-05-25T00:20:22.438Z"
     }
   ]
 }

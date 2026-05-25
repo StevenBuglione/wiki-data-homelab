@@ -3,10 +3,10 @@
   "source": {
     "id": "homelab",
     "label": "Homelab",
-    "sourceCommit": "f24d48db9ef246f44f5a0f1dcd6ef918f4b62751"
+    "sourceCommit": "a4c05c6e6d6ec60a52e93010d60efaf4923439b6"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@f24d48db9ef246f44f5a0f1dcd6ef918f4b62751/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@a4c05c6e6d6ec60a52e93010d60efaf4923439b6/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@a4c05c6e6d6ec60a52e93010d60efaf4923439b6/assets/",
   "pages": [
     {
       "id": "homelab:homelab-starter-content",
@@ -30,7 +30,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-24T21:32:35.369Z",
+      "updatedAt": "2026-05-25T00:20:22.436Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-starter-content.md",
       "headings": [
         {
@@ -81,7 +81,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-24T21:32:35.370Z",
+      "updatedAt": "2026-05-25T00:20:22.437Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-ups-monitoring-basics.md",
       "headings": [
         {
@@ -133,13 +133,106 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-24T21:32:35.370Z",
+      "updatedAt": "2026-05-25T00:20:22.438Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/index.md",
       "headings": [
         {
           "depth": 1,
           "text": "Homelab",
           "anchor": "homelab"
+        }
+      ]
+    },
+    {
+      "id": "homelab:kubernetes-backup-disaster-recovery-patterns",
+      "sourceId": "homelab",
+      "title": "Kubernetes Backup and Disaster Recovery Patterns",
+      "description": "A deep practical reference for Kubernetes backup and disaster recovery patterns in small production and homelab clusters.",
+      "slug": "kubernetes-backup-disaster-recovery-patterns",
+      "file": "kubernetes-backup-disaster-recovery-patterns.md",
+      "tags": [
+        "research",
+        "homelab",
+        "kubernetes",
+        "backup",
+        "disaster-recovery",
+        "velero",
+        "storage"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-25T00:20:22.438Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/kubernetes-backup-disaster-recovery-patterns.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "Kubernetes Backup and Disaster Recovery Patterns",
+          "anchor": "kubernetes-backup-and-disaster-recovery-patterns"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Decision Guidance",
+          "anchor": "decision-guidance"
+        },
+        {
+          "depth": 2,
+          "text": "Backup Architecture",
+          "anchor": "backup-architecture"
+        },
+        {
+          "depth": 2,
+          "text": "Restore Testing",
+          "anchor": "restore-testing"
+        },
+        {
+          "depth": 2,
+          "text": "Common Pitfalls",
+          "anchor": "common-pitfalls"
+        },
+        {
+          "depth": 2,
+          "text": "Maintenance Notes",
+          "anchor": "maintenance-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Checklist",
+          "anchor": "checklist"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        },
+        {
+          "depth": 2,
+          "text": "Research Notes",
+          "anchor": "research-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Drafting Notes",
+          "anchor": "drafting-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources-1"
         }
       ]
     }
@@ -151,7 +244,8 @@
       "items": [
         "homelab:homelab-starter-content",
         "homelab:homelab-ups-monitoring-basics",
-        "homelab:index"
+        "homelab:index",
+        "homelab:kubernetes-backup-disaster-recovery-patterns"
       ]
     }
   ]
