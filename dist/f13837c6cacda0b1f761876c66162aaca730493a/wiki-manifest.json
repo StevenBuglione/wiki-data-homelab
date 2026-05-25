@@ -3,10 +3,10 @@
   "source": {
     "id": "homelab",
     "label": "Homelab",
-    "sourceCommit": "de6f1a74c495a5ff90571dc052515530ca23e0e5"
+    "sourceCommit": "f13837c6cacda0b1f761876c66162aaca730493a"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@de6f1a74c495a5ff90571dc052515530ca23e0e5/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@de6f1a74c495a5ff90571dc052515530ca23e0e5/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@f13837c6cacda0b1f761876c66162aaca730493a/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@f13837c6cacda0b1f761876c66162aaca730493a/assets/",
   "pages": [
     {
       "id": "homelab:homelab-starter-content",
@@ -30,7 +30,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T19:16:10.044Z",
+      "updatedAt": "2026-05-25T20:02:17.620Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-starter-content.md",
       "headings": [
         {
@@ -81,7 +81,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T19:16:10.045Z",
+      "updatedAt": "2026-05-25T20:02:17.621Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-ups-monitoring-basics.md",
       "headings": [
         {
@@ -133,7 +133,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T19:16:10.045Z",
+      "updatedAt": "2026-05-25T20:02:17.621Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/index.md",
       "headings": [
         {
@@ -171,7 +171,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T19:16:10.046Z",
+      "updatedAt": "2026-05-25T20:02:17.622Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/kubernetes-backup-disaster-recovery-patterns.md",
       "headings": [
         {
@@ -248,13 +248,91 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T19:16:10.046Z",
+      "updatedAt": "2026-05-25T20:02:17.622Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/proxmox-backup-restore-small-clusters.md",
       "headings": [
         {
           "depth": 1,
           "text": "Proxmox Backup and Restore Strategy for Small Clusters",
           "anchor": "proxmox-backup-and-restore-strategy-for-small-clusters"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Decision Matrix",
+          "anchor": "decision-matrix"
+        },
+        {
+          "depth": 2,
+          "text": "Reference Architecture",
+          "anchor": "reference-architecture"
+        },
+        {
+          "depth": 2,
+          "text": "Restore Runbook",
+          "anchor": "restore-runbook"
+        },
+        {
+          "depth": 2,
+          "text": "Failure Scenarios",
+          "anchor": "failure-scenarios"
+        },
+        {
+          "depth": 2,
+          "text": "Operational Checklist",
+          "anchor": "operational-checklist"
+        },
+        {
+          "depth": 2,
+          "text": "Common Pitfalls",
+          "anchor": "common-pitfalls"
+        },
+        {
+          "depth": 2,
+          "text": "Maintenance Notes",
+          "anchor": "maintenance-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
+    },
+    {
+      "id": "homelab:ups-sizing-graceful-shutdown-testing",
+      "sourceId": "homelab",
+      "title": "UPS Sizing and Graceful Shutdown Testing for a Self-Hosted Rack",
+      "description": "Practical reference for estimating UPS runtime, mapping critical loads, integrating UPS monitoring, and validating graceful shutdown and restart behavior for homelab servers, NAS devices, and network gear.",
+      "slug": "ups-sizing-graceful-shutdown-testing",
+      "file": "ups-sizing-graceful-shutdown-testing.md",
+      "tags": [
+        "research",
+        "homelab"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "active",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "needs_review",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-25T20:02:17.624Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/ups-sizing-graceful-shutdown-testing.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "UPS Sizing and Graceful Shutdown Testing for a Self-Hosted Rack",
+          "anchor": "ups-sizing-and-graceful-shutdown-testing-for-a-self-hosted-rack"
         },
         {
           "depth": 2,
@@ -313,7 +391,8 @@
         "homelab:homelab-ups-monitoring-basics",
         "homelab:index",
         "homelab:kubernetes-backup-disaster-recovery-patterns",
-        "homelab:proxmox-backup-restore-small-clusters"
+        "homelab:proxmox-backup-restore-small-clusters",
+        "homelab:ups-sizing-graceful-shutdown-testing"
       ]
     }
   ]

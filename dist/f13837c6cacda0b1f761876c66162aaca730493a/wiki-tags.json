@@ -20,11 +20,12 @@
     },
     {
       "tag": "homelab",
-      "count": 3,
+      "count": 4,
       "pages": [
         "homelab:homelab-ups-monitoring-basics",
         "homelab:kubernetes-backup-disaster-recovery-patterns",
-        "homelab:proxmox-backup-restore-small-clusters"
+        "homelab:proxmox-backup-restore-small-clusters",
+        "homelab:ups-sizing-graceful-shutdown-testing"
       ]
     },
     {
@@ -58,12 +59,13 @@
     },
     {
       "tag": "research",
-      "count": 4,
+      "count": 5,
       "pages": [
         "homelab:homelab-starter-content",
         "homelab:homelab-ups-monitoring-basics",
         "homelab:kubernetes-backup-disaster-recovery-patterns",
-        "homelab:proxmox-backup-restore-small-clusters"
+        "homelab:proxmox-backup-restore-small-clusters",
+        "homelab:ups-sizing-graceful-shutdown-testing"
       ]
     },
     {

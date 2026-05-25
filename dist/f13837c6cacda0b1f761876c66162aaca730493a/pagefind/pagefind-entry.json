@@ -82,6 +82,20 @@
           "disaster-recovery"
         ]
       }
+    },
+    {
+      "id": "homelab:ups-sizing-graceful-shutdown-testing",
+      "title": "UPS Sizing and Graceful Shutdown Testing for a Self-Hosted Rack",
+      "filters": {
+        "source": "homelab",
+        "area": "general",
+        "status": "active",
+        "difficulty": "intermediate",
+        "tags": [
+          "research",
+          "homelab"
+        ]
+      }
     }
   ]
 }

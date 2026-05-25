@@ -8,3 +8,4 @@
 - [Homelab](/wiki/?s=homelab&p=index)
 - [Kubernetes Backup and Disaster Recovery Patterns](/wiki/?s=homelab&p=kubernetes-backup-disaster-recovery-patterns)
 - [Proxmox Backup and Restore Strategy for Small Clusters](/wiki/?s=homelab&p=proxmox-backup-restore-small-clusters)
+- [UPS Sizing and Graceful Shutdown Testing for a Self-Hosted Rack](/wiki/?s=homelab&p=ups-sizing-graceful-shutdown-testing)

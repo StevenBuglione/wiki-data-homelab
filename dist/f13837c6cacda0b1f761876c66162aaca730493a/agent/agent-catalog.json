@@ -90,6 +90,21 @@
         "last_verified": "2026-05-25",
         "confidence": "medium"
       }
+    },
+    {
+      "id": "homelab:ups-sizing-graceful-shutdown-testing",
+      "title": "UPS Sizing and Graceful Shutdown Testing for a Self-Hosted Rack",
+      "slug": "ups-sizing-graceful-shutdown-testing",
+      "tags": [
+        "research",
+        "homelab"
+      ],
+      "review": {
+        "review_status": "needs_review",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      }
     }
   ]
 }
