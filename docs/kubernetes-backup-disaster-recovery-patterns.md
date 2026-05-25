@@ -67,8 +67,6 @@ sources:
 
 # Kubernetes Backup and Disaster Recovery Patterns
 
-Create a deep, human-readable reference page for Kubernetes backup and disaster recovery patterns for small production and homelab clusters.
-
 ## Summary
 
 Kubernetes disaster recovery works best when each layer has a clear job. etcd snapshots protect control-plane state, GitOps protects declarative desired state, Velero protects Kubernetes API resources and can coordinate persistent volume recovery, CSI snapshots provide storage-level point-in-time copies when the driver supports them, and application-native tools protect databases and other systems that need consistency beyond a raw volume image. [1](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/) [5](https://velero.io/docs/main/how-velero-works/)
@@ -122,24 +120,6 @@ Keep recovery documentation close to the system it restores, but not only inside
 The minimum checklist is to define RPO/RTO, enable and test etcd snapshots, keep desired state in Git, decide which resources Velero backs up, verify CSI snapshot support for the storage driver, configure application-native backups for databases, store artifacts off-cluster, encrypt sensitive data, and run a restore drill. The checklist should be reviewed whenever the cluster gains a new storage class, operator, database, or externally managed dependency. [1](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/) [2](https://etcd.io/docs/v3.5/op-guide/recovery/)
 
 - For each workload, record: owner, data location, backup method, restore method, retention, encryption requirement, and last successful restore test. [1](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/) [2](https://etcd.io/docs/v3.5/op-guide/recovery/)
-
-## Sources
-
-The draft should cite official Kubernetes, etcd, Velero, CSI, Argo CD, CloudNativePG, and RKE2 documentation. Supporting blogs or forum posts are not needed for this page because the primary sources are sufficient for the core claims. [1](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/) [2](https://etcd.io/docs/v3.5/op-guide/recovery/)
-
-- Use numeric Markdown citations in the final page and map each operational claim to at least one primary source. [1](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/) [2](https://etcd.io/docs/v3.5/op-guide/recovery/)
-
-## Research Notes
-
-- To be expanded from cited source material.
-
-## Drafting Notes
-
-- Use a practical human voice and avoid presenting any single tool as a complete disaster recovery plan.
-- Use numeric Markdown citation links in the final draft.
-- Keep uncertain or environment-specific claims conservative, especially around snapshot consistency and storage-driver behavior.
-- Include Summary, Decision Guidance, Backup Architecture, Restore Testing, Common Pitfalls, Maintenance Notes, Checklist, and Sources.
-- Do not allow local watchdog or Qwen models to approve source, drafting, critic, merge, or publish decisions.
 
 ## Sources
 
