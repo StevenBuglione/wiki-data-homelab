@@ -3,10 +3,10 @@
   "source": {
     "id": "homelab",
     "label": "Homelab",
-    "sourceCommit": "a4c05c6e6d6ec60a52e93010d60efaf4923439b6"
+    "sourceCommit": "bf4a254ce11414adba498eb77bb013e1e140f5d5"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@a4c05c6e6d6ec60a52e93010d60efaf4923439b6/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@a4c05c6e6d6ec60a52e93010d60efaf4923439b6/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@bf4a254ce11414adba498eb77bb013e1e140f5d5/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@bf4a254ce11414adba498eb77bb013e1e140f5d5/assets/",
   "pages": [
     {
       "id": "homelab:homelab-starter-content",
@@ -30,7 +30,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T00:20:22.436Z",
+      "updatedAt": "2026-05-25T00:52:06.738Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-starter-content.md",
       "headings": [
         {
@@ -81,7 +81,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T00:20:22.437Z",
+      "updatedAt": "2026-05-25T00:52:06.739Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-ups-monitoring-basics.md",
       "headings": [
         {
@@ -133,7 +133,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T00:20:22.438Z",
+      "updatedAt": "2026-05-25T00:52:06.739Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/index.md",
       "headings": [
         {
@@ -171,7 +171,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T00:20:22.438Z",
+      "updatedAt": "2026-05-25T00:52:06.740Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/kubernetes-backup-disaster-recovery-patterns.md",
       "headings": [
         {
@@ -218,21 +218,6 @@
           "depth": 2,
           "text": "Sources",
           "anchor": "sources"
-        },
-        {
-          "depth": 2,
-          "text": "Research Notes",
-          "anchor": "research-notes"
-        },
-        {
-          "depth": 2,
-          "text": "Drafting Notes",
-          "anchor": "drafting-notes"
-        },
-        {
-          "depth": 2,
-          "text": "Sources",
-          "anchor": "sources-1"
         }
       ]
     }
