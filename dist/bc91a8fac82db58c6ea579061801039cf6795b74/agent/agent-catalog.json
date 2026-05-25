@@ -105,6 +105,27 @@
         "last_verified": "2026-05-25",
         "confidence": "medium"
       }
+    },
+    {
+      "id": "homelab:vlan-segmentation-iot-guest-server-management",
+      "title": "VLAN Segmentation for IoT, Guest, Server, and Management Homelab Networks",
+      "slug": "vlan-segmentation-iot-guest-server-management",
+      "tags": [
+        "research",
+        "homelab",
+        "networking",
+        "vlan",
+        "firewall",
+        "iot",
+        "guest-network",
+        "management-plane"
+      ],
+      "review": {
+        "review_status": "needs_review",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      }
     }
   ]
 }

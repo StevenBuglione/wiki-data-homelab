@@ -3,10 +3,10 @@
   "source": {
     "id": "homelab",
     "label": "Homelab",
-    "sourceCommit": "f13837c6cacda0b1f761876c66162aaca730493a"
+    "sourceCommit": "bc91a8fac82db58c6ea579061801039cf6795b74"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@f13837c6cacda0b1f761876c66162aaca730493a/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@f13837c6cacda0b1f761876c66162aaca730493a/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@bc91a8fac82db58c6ea579061801039cf6795b74/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-homelab@bc91a8fac82db58c6ea579061801039cf6795b74/assets/",
   "pages": [
     {
       "id": "homelab:homelab-starter-content",
@@ -30,7 +30,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T20:02:17.620Z",
+      "updatedAt": "2026-05-25T21:38:36.006Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-starter-content.md",
       "headings": [
         {
@@ -81,7 +81,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T20:02:17.621Z",
+      "updatedAt": "2026-05-25T21:38:36.007Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/homelab-ups-monitoring-basics.md",
       "headings": [
         {
@@ -133,7 +133,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T20:02:17.621Z",
+      "updatedAt": "2026-05-25T21:38:36.007Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/index.md",
       "headings": [
         {
@@ -171,7 +171,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T20:02:17.622Z",
+      "updatedAt": "2026-05-25T21:38:36.007Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/kubernetes-backup-disaster-recovery-patterns.md",
       "headings": [
         {
@@ -248,7 +248,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T20:02:17.622Z",
+      "updatedAt": "2026-05-25T21:38:36.008Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/proxmox-backup-restore-small-clusters.md",
       "headings": [
         {
@@ -326,13 +326,97 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T20:02:17.624Z",
+      "updatedAt": "2026-05-25T21:38:36.009Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/ups-sizing-graceful-shutdown-testing.md",
       "headings": [
         {
           "depth": 1,
           "text": "UPS Sizing and Graceful Shutdown Testing for a Self-Hosted Rack",
           "anchor": "ups-sizing-and-graceful-shutdown-testing-for-a-self-hosted-rack"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Decision Matrix",
+          "anchor": "decision-matrix"
+        },
+        {
+          "depth": 2,
+          "text": "Reference Architecture",
+          "anchor": "reference-architecture"
+        },
+        {
+          "depth": 2,
+          "text": "Restore Runbook",
+          "anchor": "restore-runbook"
+        },
+        {
+          "depth": 2,
+          "text": "Failure Scenarios",
+          "anchor": "failure-scenarios"
+        },
+        {
+          "depth": 2,
+          "text": "Operational Checklist",
+          "anchor": "operational-checklist"
+        },
+        {
+          "depth": 2,
+          "text": "Common Pitfalls",
+          "anchor": "common-pitfalls"
+        },
+        {
+          "depth": 2,
+          "text": "Maintenance Notes",
+          "anchor": "maintenance-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
+    },
+    {
+      "id": "homelab:vlan-segmentation-iot-guest-server-management",
+      "sourceId": "homelab",
+      "title": "VLAN Segmentation for IoT, Guest, Server, and Management Homelab Networks",
+      "description": "A practical reference for designing and operating VLAN trust zones, management-plane isolation, firewall intent, DHCP/DNS behavior, discovery exceptions, and recovery steps in a small homelab.",
+      "slug": "vlan-segmentation-iot-guest-server-management",
+      "file": "vlan-segmentation-iot-guest-server-management.md",
+      "tags": [
+        "research",
+        "homelab",
+        "networking",
+        "vlan",
+        "firewall",
+        "iot",
+        "guest-network",
+        "management-plane"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "active",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "needs_review",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-25T21:38:36.010Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-homelab/edit/main/docs/vlan-segmentation-iot-guest-server-management.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "VLAN Segmentation for IoT, Guest, Server, and Management Homelab Networks",
+          "anchor": "vlan-segmentation-for-iot-guest-server-and-management-homelab-networks"
         },
         {
           "depth": 2,
@@ -392,7 +476,8 @@
         "homelab:index",
         "homelab:kubernetes-backup-disaster-recovery-patterns",
         "homelab:proxmox-backup-restore-small-clusters",
-        "homelab:ups-sizing-graceful-shutdown-testing"
+        "homelab:ups-sizing-graceful-shutdown-testing",
+        "homelab:vlan-segmentation-iot-guest-server-management"
       ]
     }
   ]

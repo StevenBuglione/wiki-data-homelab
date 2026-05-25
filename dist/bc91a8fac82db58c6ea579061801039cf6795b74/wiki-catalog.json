@@ -6,8 +6,8 @@
     "description": "Self-hosting, networking, storage, disaster recovery"
   },
   "counts": {
-    "pages": 6,
-    "tags": 12,
+    "pages": 7,
+    "tags": 18,
     "assets": 0
   },
   "topLevelNavigation": [
@@ -40,38 +40,48 @@
       "label": "UPS Sizing and Graceful Shutdown Testing for a Self-Hosted Rack",
       "slug": "ups-sizing-graceful-shutdown-testing",
       "count": 1
+    },
+    {
+      "label": "VLAN Segmentation for IoT, Guest, Server, and Management Homelab Networks",
+      "slug": "vlan-segmentation-iot-guest-server-management",
+      "count": 1
     }
   ],
   "recentlyUpdated": [
     {
       "pageId": "homelab:homelab-starter-content",
       "title": "Research Homelab starter content",
-      "updatedAt": "2026-05-25T20:02:17.620Z"
+      "updatedAt": "2026-05-25T21:38:36.006Z"
     },
     {
       "pageId": "homelab:homelab-ups-monitoring-basics",
       "title": "Homelab UPS Monitoring Basics",
-      "updatedAt": "2026-05-25T20:02:17.621Z"
+      "updatedAt": "2026-05-25T21:38:36.007Z"
     },
     {
       "pageId": "homelab:index",
       "title": "Homelab",
-      "updatedAt": "2026-05-25T20:02:17.621Z"
+      "updatedAt": "2026-05-25T21:38:36.007Z"
     },
     {
       "pageId": "homelab:kubernetes-backup-disaster-recovery-patterns",
       "title": "Kubernetes Backup and Disaster Recovery Patterns",
-      "updatedAt": "2026-05-25T20:02:17.622Z"
+      "updatedAt": "2026-05-25T21:38:36.007Z"
     },
     {
       "pageId": "homelab:proxmox-backup-restore-small-clusters",
       "title": "Proxmox Backup and Restore Strategy for Small Clusters",
-      "updatedAt": "2026-05-25T20:02:17.622Z"
+      "updatedAt": "2026-05-25T21:38:36.008Z"
     },
     {
       "pageId": "homelab:ups-sizing-graceful-shutdown-testing",
       "title": "UPS Sizing and Graceful Shutdown Testing for a Self-Hosted Rack",
-      "updatedAt": "2026-05-25T20:02:17.624Z"
+      "updatedAt": "2026-05-25T21:38:36.009Z"
+    },
+    {
+      "pageId": "homelab:vlan-segmentation-iot-guest-server-management",
+      "title": "VLAN Segmentation for IoT, Guest, Server, and Management Homelab Networks",
+      "updatedAt": "2026-05-25T21:38:36.010Z"
     }
   ]
 }

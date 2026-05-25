@@ -19,13 +19,28 @@
       ]
     },
     {
+      "tag": "firewall",
+      "count": 1,
+      "pages": [
+        "homelab:vlan-segmentation-iot-guest-server-management"
+      ]
+    },
+    {
+      "tag": "guest-network",
+      "count": 1,
+      "pages": [
+        "homelab:vlan-segmentation-iot-guest-server-management"
+      ]
+    },
+    {
       "tag": "homelab",
-      "count": 4,
+      "count": 5,
       "pages": [
         "homelab:homelab-ups-monitoring-basics",
         "homelab:kubernetes-backup-disaster-recovery-patterns",
         "homelab:proxmox-backup-restore-small-clusters",
-        "homelab:ups-sizing-graceful-shutdown-testing"
+        "homelab:ups-sizing-graceful-shutdown-testing",
+        "homelab:vlan-segmentation-iot-guest-server-management"
       ]
     },
     {
@@ -36,6 +51,13 @@
       ]
     },
     {
+      "tag": "iot",
+      "count": 1,
+      "pages": [
+        "homelab:vlan-segmentation-iot-guest-server-management"
+      ]
+    },
+    {
       "tag": "kubernetes",
       "count": 1,
       "pages": [
@@ -43,10 +65,24 @@
       ]
     },
     {
+      "tag": "management-plane",
+      "count": 1,
+      "pages": [
+        "homelab:vlan-segmentation-iot-guest-server-management"
+      ]
+    },
+    {
       "tag": "monitoring",
       "count": 1,
       "pages": [
         "homelab:homelab-ups-monitoring-basics"
+      ]
+    },
+    {
+      "tag": "networking",
+      "count": 1,
+      "pages": [
+        "homelab:vlan-segmentation-iot-guest-server-management"
       ]
     },
     {
@@ -59,13 +95,14 @@
     },
     {
       "tag": "research",
-      "count": 5,
+      "count": 6,
       "pages": [
         "homelab:homelab-starter-content",
         "homelab:homelab-ups-monitoring-basics",
         "homelab:kubernetes-backup-disaster-recovery-patterns",
         "homelab:proxmox-backup-restore-small-clusters",
-        "homelab:ups-sizing-graceful-shutdown-testing"
+        "homelab:ups-sizing-graceful-shutdown-testing",
+        "homelab:vlan-segmentation-iot-guest-server-management"
       ]
     },
     {
@@ -94,6 +131,13 @@
       "count": 1,
       "pages": [
         "homelab:kubernetes-backup-disaster-recovery-patterns"
+      ]
+    },
+    {
+      "tag": "vlan",
+      "count": 1,
+      "pages": [
+        "homelab:vlan-segmentation-iot-guest-server-management"
       ]
     }
   ]
